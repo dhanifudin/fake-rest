@@ -9,7 +9,7 @@
           "username": "random user",
           "text": "lorem ipsum"
         }
-        ],
+      ]
     }
   ],
   "populars": [
@@ -22,9 +22,9 @@
           "username": "random user",
           "text": "lorem ipsum"
         }
-        ],
+      ]
     }
-    ],
+  ],
   "profile": {
     "name": "typicode"
   }
